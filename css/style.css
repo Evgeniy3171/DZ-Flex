@@ -1,0 +1,45 @@
+* {
+    font-family: sans-serif;
+}    
+.basic {
+    /* border: 1px solid blue; */
+    margin: auto;
+    width: 80%;
+}
+.base {
+    display: flex;  
+    justify-content: space-between; 
+    /*align-items: center; */
+}
+.block img {
+    height: 212px;
+    width: 264px;
+}
+.block {
+    /* border: 1px solid red; */
+    height: 367px;
+    width: 265px;
+    text-align: center;
+    font-size: 16px;
+}
+.block p {
+    margin: 10px auto;
+    
+}
+.block .sell {
+    font-size: 18px;
+    font-weight: bold;
+}
+h2 {
+    text-align: center;
+}
+button {
+    border: 1px solid #23BAC1;
+    font-size: 13px;
+    font-weight: bold;
+    color: #23BAC1;
+    /*height: 56px;
+    width: 201px;*/
+    padding: 24px 75px;
+    cursor: pointer;
+}
